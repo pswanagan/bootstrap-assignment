@@ -1,0 +1,6 @@
+.row {
+    flex-direction: row;
+}
+.filter {
+    margin-right: auto;
+}
